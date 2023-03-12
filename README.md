@@ -2,7 +2,7 @@
 # Bréval Le Floch
 
 <!--
-**LightIn-death/LightIn-death** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LightInn/LightInn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🔭 I’m currently working on ...
 - 🤔 I’m looking for help with ...
@@ -35,15 +35,15 @@ If you would like to discuss anything with me, you can reach out to me on [<img 
 ### 📶 Stats:
 <!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=ChoukseyKhushbu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true) -->
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=LightIn-death&include_all_commits=true&show_icons=true&theme=dracula&count_private=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=LightInn&include_all_commits=true&show_icons=true&theme=dracula&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LightIn-death&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LightInn&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://profile-counter.glitch.me/LightIn-death/count.svg)
+![visitors](https://profile-counter.glitch.me/LightInn/count.svg)
 
 
 <br />
 
 <div><p>The projects I am currently working on: </p></div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LightIn-death&repo=Site-Underflow)](https://github.com/LightIn-death/Site-Underflow)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LightIn-death&repo=Site-Underflow)](https://github.com/LightInn/Site-Underflow)
