@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -268,14 +268,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="74.18179888199239" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="74.18179888199239" y="0" width="71.21623372680202" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="145.3980326087944" y="0" width="69.67483488325279" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="215.07286749204718" y="0" width="66.18997140191804" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="281.26283889396524" y="0" width="57.21805356127645" height="8" fill="#355570"/>
-                    <rect mask="url(#languages-bar)" x="338.48089245524164" y="0" width="51.79654384457485" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="390.27743629981654" y="0" width="46.226568913918385" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="436.5040052137349" y="0" width="23.49599478626508" height="8" fill="#c1d026"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="73.70388986013985" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="73.70388986013985" y="0" width="72.18946678321679" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="145.89335664335664" y="0" width="70.75743006993007" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="216.65078671328672" y="0" width="65.76354895104896" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="282.4143356643356" y="0" width="56.84943181818182" height="8" fill="#355570"/>
+                    <rect mask="url(#languages-bar)" x="339.26376748251744" y="0" width="51.46284965034965" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="390.7266171328671" y="0" width="45.92875874125874" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="436.65537587412587" y="0" width="23.344624125874127" height="8" fill="#c1d026"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -286,15 +286,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#00B4AB" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Dart
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#00B4AB" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Dart
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
