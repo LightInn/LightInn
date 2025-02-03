@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -268,14 +268,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="89.07927823309019" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="89.07927823309019" y="0" width="70.6751935411967" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="159.7544717742869" y="0" width="67.61585119765603" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="227.37032297194293" y="0" width="62.928688132757024" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="290.29901110469996" y="0" width="54.32535803929704" height="8" fill="#355570"/>
-                    <rect mask="url(#languages-bar)" x="344.624369143997" y="0" width="49.17793623547902" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="393.802305379476" y="0" width="43.88955497214632" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="437.6918603516223" y="0" width="22.30813964837765" height="8" fill="#c1d026"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="89.09157022272218" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="89.09157022272218" y="0" width="70.67285142684378" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="159.76442164956595" y="0" width="67.61361046724356" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="227.3780321168095" y="0" width="62.92660273084581" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="290.30463484765534" y="0" width="54.32355774425127" height="8" fill="#355570"/>
+                    <rect mask="url(#languages-bar)" x="344.6281925919066" y="0" width="49.1763065215082" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="393.8044991134148" y="0" width="43.88810051052417" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="437.692599623939" y="0" width="22.30740037606102" height="8" fill="#c1d026"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -815,7 +815,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.27m out of 238m repositories</span>
+                                    <span class="gh">ranked 1.27m out of 237m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">21</div>
                                     </div>
@@ -934,7 +934,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.54m out of 238m repositories</span>
+                                    <span class="gh">ranked 5.54m out of 237m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
